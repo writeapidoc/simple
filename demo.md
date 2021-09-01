@@ -1,7 +1,7 @@
 ##This is our first line used for the pull request test.
 #This is our second line!
 <<<<<<< Updated upstream
-And the third!
+And the third, special for the conflict test branch.
 and a final fourth lines!
 
 This is the stash example
